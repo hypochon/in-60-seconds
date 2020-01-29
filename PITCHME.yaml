@@ -62,3 +62,4 @@ title : "GitPitch In 60 Seconds"
 description : "A short tutorial introducing GitPitch Markdown Presentations for Developers."
 thumbnail : https://gitpitch.com/gpimg/tutorial-thumb.png
 
+charts : true
