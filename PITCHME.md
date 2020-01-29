@@ -132,7 +132,7 @@ maybe
 
 ---
 
----?color=linear-gradient(65deg, white 50%, black 50%)
+---?color=linear-gradient(65deg, red 50%, black 50%)
 
 @snap[west span-40 text-center]
 
