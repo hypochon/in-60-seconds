@@ -134,7 +134,7 @@ maybe
 
 ---
 
-<canvas data-chart="line">
+<canvas data-chart="pie">
 <!--
 {
  "data": {
